@@ -32,3 +32,4 @@ bin/
 /.idea/modules.xml
 /.idea/vcs.xml
 /*.iml
+/.idea/uiDesigner.xml

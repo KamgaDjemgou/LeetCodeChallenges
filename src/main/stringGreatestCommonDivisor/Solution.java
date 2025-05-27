@@ -1,4 +1,4 @@
-package stringGreatestCommonDivisor;
+package main.stringGreatestCommonDivisor;
 
 public class Solution {
     public String gcdOfStrings(String str1, String str2) {

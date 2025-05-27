@@ -1,4 +1,4 @@
-package mergeStringsAlternately;
+package main.mergeStringsAlternately;
 
 public class Solution {
     public String mergeAlternately(String word1, String word2) {
